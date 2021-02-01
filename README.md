@@ -10,3 +10,6 @@
 9. Les répétitions : boucle for
 10. Les tableaux / collections / listes
 11. PyQGIS
+
+
+données dpt Etalab : https://cadastre.data.gouv.fr/data/etalab-cadastre/2020-10-01/shp/departements/
